@@ -74,16 +74,20 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 
 ## 🛠️ Ferramentas
 
+> Sites para desenvolvedor front-end
+
 - [Text Pop 3D](https://textpop3d.web.app/) - Cria efeitos de texto 3D
 - [Shape Dividers](https://shapedividers.com) - Gera divisores de formas verticais, responsivos, e animados facilmente com este gerador de divisores de formas SVG
 - [Couleur](https://couleur.io) - Uma ferramenta de cores simples para ajudá-lo a encontrar uma boa paleta de cores para seu projeto da web)
 - [Baseline CSS Filters](https://baseline.is/tools/css-photo-filters/) - 36 Belos filtros de fotos, com edição simples e CSS para copiar)
 - [UI Deck](https://uideck.com) - Modelo de página de destino HTML gratuitos e premium, temas de bootstrap, modelos de React, modelos de Tailwind, modelos de site HTML, e kits de interface de usúario)
 - [Naevner](https://naevner.com) - Descrição de cores em linguagem natural, gerador de códigos em cores hexadecimais)
+  > ◽ Templates HTML gratuitos
 - [Bootstrap Made](https://bootstrapmade.com/) - Temas HTML5 + CSS3 gratuitos
 - [W3 Layouts](https://w3layouts.com) - Temas HTML5 + CSS3 gratuitos
 - [One Page Love](https://onepagelove.com) - Temas HTML5 + CSS3 gratuitos
 - [ThemeWagon Freebies](https://themewagon.com/theme_tag/free/) - Temas HTML5 + CSS3 gratuitos
+  > ◽ Sites para aprender ou treinar CSS
 - [CSS Grid Garden](http://cssgridgarden.com/) - Ferramenta online para estudos de Grid (CSS)
 - [Flukeout](http://flukeout.github.io/) - Aplicação online para aprender CSS de forma prática
 - [Flex Box Froggy](https://flexboxfroggy.com/) - Desafio de Programação Front-end focados na propriedade flex box. IDE integrada.
