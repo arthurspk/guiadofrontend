@@ -194,6 +194,9 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Wedsites](https://wedsites.com/) - Liste suas atividades e acompanhe seu progresso
 - [WordPress](https://wordpress.org/) - Criação de blogs
 - [XML Sitemaps](https://www.xml-sitemaps.com/) - Criador de sitemaps.xml
+- [Minimamente](https://www.minimamente.com/project/magic/)
+- [Hamburgers](https://jonsuh.com/hamburgers/)
+- [Hover Effects](https://ianlunn.github.io/Hover/)
 
 > ◾ Design front-end
 
@@ -249,3 +252,18 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Vectorizer](https://www.vectorizer.io/) - Converta imagens como PNGs, BMPs e JPEGs em gráficos vetoriais ​​(SVG, EPS, DXF)
 - [Whimsical](https://whimsical.com/) - Flowchart, Wireframe, Sticky Notes e Mind Map
 - [X-Icon Editor](http://www.xiconeditor.com/) - Gerador de favicon com alta resolução a partir de imagens
+
+> ◾ Desafios
+
+- [Ace Front End](https://www.acefrontend.com/) - Desafios de programação Front-end. Resultados via texto. IDE integrada
+- [AdventoOfCode](https://adventofcode.com/) - Desafios de programação por temporada. Sem IDE integrada. Validação manual feita pelo usuário
+- [App Ideas](https://github.com/florinpop17/app-ideas) - Compilado de desafios para você testar seus conhecimentos e aumentar seu portfólio
+- [CodePen Challenges](https://codepen.io/challenges) - Desafios de Programação Front-end. IDE integrada
+- [Codier](https://codier.io/challenge) - Desafios de Programação Front-end, análise dos resultados feita pela comunidade. IDE integrada
+- [CSS Battle](https://cssbattle.dev/) - Batalhas temporárias de CSS. IDE integrada
+- [DevChallenge](https://www.devchallenge.com.br/) - Site com desafios de front-end, back-end e mobile
+- [Flex Box Defense](http://www.flexboxdefense.com/) - Desafio de Programação Front-end focados na propriedade flex box. IDE integrada.
+- [Flex Box Froggy](https://flexboxfroggy.com/) - Desafio de Programação Front-end focados na propriedade flex box. IDE integrada.
+- [Front End Challanged Club](https://piccalil.li/category/front-end-challenges-club) - Bogs com desafios de programação front-end
+- [Frontend Challengens](https://github.com/felipefialho/frontend-challenges) - Repositório no GitHub com vários desafios solicitados reais solicitados por empresas
+- [Frontend Mentor](https://www.frontendmentor.io/) - Desafios de Programação Front-end, análise dos resultados feita pela comunidade, sem IDE integrada
