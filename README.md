@@ -274,6 +274,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Front End Challanged Club](https://piccalil.li/category/front-end-challenges-club) - Bogs com desafios de programação front-end
 - [Frontend Challengens](https://github.com/felipefialho/frontend-challenges) - Repositório no GitHub com vários desafios solicitados reais solicitados por empresas
 - [Frontend Mentor](https://www.frontendmentor.io/) - Desafios de Programação Front-end, análise dos resultados feita pela comunidade, sem IDE integrada
+- [Code Well](https://codewell.cc/) - Treine suas habilidade de HTML e CSS com alguns templates
 
 > ◾ Bibliotecas para JavaScript
 
@@ -287,30 +288,30 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 
 > ◾ Ferramentas para hospedar seu site
 
-- [Github Pages](https://pages.github.com/) - Hospedado diretamente de seu repositório GitHub. Basta editar, enviar e suas alterações entrarão em vigor <br>
-- [Award Space](https://www.awardspace.com/) - Hospedagem gratuita na web + um subdomínio gratuito, PHP, MySQL, instalador de aplicativo, envio de e-mail e sem anúncios <br>
-- [Byet](https://byet.host/) - Hospedagem Gratuita e Serviços de Hospedagem Premium. <br>
-- [Infinity Free](https://infinityfree.net/) - Free Unlimited Web Hosting <br>
-- [1FreeHosting](http://www.1freehosting.com/) - Hospedagem de sites grátis com 100GB de largura de banda <br>
-- [Amazon Web Services](https://aws.amazon.com/pt/) - Serviço de aluguel de servidores e outros serviços <br>
-- [BlueHost](https://www.bluehost.com/) - Empresa americana de hospedagem de sites <br>
-- [DigitalOcean](https://www.digitalocean.com/) - Aluguel de servidores dedicados e compartilhados <br>
-- [DreamHost](https://www.dreamhost.com/) - Hospedagem de sites de alta disponibilidade <br>
-- [Embratel](https://www.embratel.com.br/cloud/hospedagem-de-sites) - Hospedagem de sites nacional <br>
-- [GoDaddy](https://br.godaddy.com/hosting/web-hosting) - Hospedagem de sites internacional <br>
-- [GoDaddy](https://br.godaddy.com/) - Empresa de aluguel de servidores compartilhados, dedicados e registro de domínio <br>
-- [Google Cloud](https://cloud.google.com/solutions/smb/web-hosting/) - Serviço de aluguel de servidores da Google <br>
-- [Heroku](https://www.heroku.com/) - Hospedagem de sites grátis com suporte à NodeJS, Java, Ruby, PHP, Python, Go, Scala e Clojure <br>
-- [HostGator](https://www.hostgator.com/) - Hospedagem compartilhada e dedicada para sites e serviços <br>
-- [Hostinger](https://www.hostinger.com.br/) - Hospedagem de sites <br>
-- [Hostoo](https://hostoo.io/) - Hospedagem de sites em cloud computing dedicado <br>
-- [iPage](https://www.ipage.com/) - Hospedagem de sites gringa com descontos para anúncios <br>
-- [KingHost](https://king.host/) - Hospedagem compartilhada e dedicada para sites e serviços de marketing por e-mail <br>
-- [Netlify](https://www.netlify.com/) - Hospedagem para sites estáticos que combina implantação global, integração contínua e HTTPS automático <br>
-- [One.com](https://www.one.com/pt-BR/) - Serviços gerais digitais (incluindo hospedagem de sites) <br>
-- [Surge](https://surge.sh/) - Hospedagem gratuita para páginas estáticas <br>
-- [Umbler](https://www.umbler.com/br) - Hospedagem compartilhada, cloud computing sob taxação de uso <br>
-- [Vercel](https://vercel.com/) - Hospedagem grátis de sites estáticos e serveless <br>
+- [Github Pages](https://pages.github.com/) - Hospedado diretamente de seu repositório GitHub. Basta editar, enviar e suas alterações entrarão em vigor
+- [Award Space](https://www.awardspace.com/) - Hospedagem gratuita na web + um subdomínio gratuito, PHP, MySQL, instalador de aplicativo, envio de e-mail e sem anúncios
+- [Byet](https://byet.host/) - Hospedagem Gratuita e Serviços de Hospedagem Premium.
+- [Infinity Free](https://infinityfree.net/) - Free Unlimited Web Hosting
+- [1FreeHosting](http://www.1freehosting.com/) - Hospedagem de sites grátis com 100GB de largura de banda
+- [Amazon Web Services](https://aws.amazon.com/pt/) - Serviço de aluguel de servidores e outros serviços
+- [BlueHost](https://www.bluehost.com/) - Empresa americana de hospedagem de sites
+- [DigitalOcean](https://www.digitalocean.com/) - Aluguel de servidores dedicados e compartilhados
+- [DreamHost](https://www.dreamhost.com/) - Hospedagem de sites de alta disponibilidade
+- [Embratel](https://www.embratel.com.br/cloud/hospedagem-de-sites) - Hospedagem de sites nacional
+- [GoDaddy](https://br.godaddy.com/hosting/web-hosting) - Hospedagem de sites internacional
+- [GoDaddy](https://br.godaddy.com/) - Empresa de aluguel de servidores compartilhados, dedicados e registro de domínio
+- [Google Cloud](https://cloud.google.com/solutions/smb/web-hosting/) - Serviço de aluguel de servidores da Google
+- [Heroku](https://www.heroku.com/) - Hospedagem de sites grátis com suporte à NodeJS, Java, Ruby, PHP, Python, Go, Scala e Clojure
+- [HostGator](https://www.hostgator.com/) - Hospedagem compartilhada e dedicada para sites e serviços
+- [Hostinger](https://www.hostinger.com.br/) - Hospedagem de sites
+- [Hostoo](https://hostoo.io/) - Hospedagem de sites em cloud computing dedicado
+- [iPage](https://www.ipage.com/) - Hospedagem de sites gringa com descontos para anúncios
+- [KingHost](https://king.host/) - Hospedagem compartilhada e dedicada para sites e serviços de marketing por e-mail
+- [Netlify](https://www.netlify.com/) - Hospedagem para sites estáticos que combina implantação global, integração contínua e HTTPS automático
+- [One.com](https://www.one.com/pt-BR/) - Serviços gerais digitais (incluindo hospedagem de sites)
+- [Surge](https://surge.sh/) - Hospedagem gratuita para páginas estáticas
+- [Umbler](https://www.umbler.com/br) - Hospedagem compartilhada, cloud computing sob taxação de uso
+- [Vercel](https://vercel.com/) - Hospedagem grátis de sites estáticos e serveless
 
 > ◾ Sites para inspirar o seu desenvolvimento
 
