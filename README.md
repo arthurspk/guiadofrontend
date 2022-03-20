@@ -194,9 +194,9 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Wedsites](https://wedsites.com/) - Liste suas atividades e acompanhe seu progresso
 - [WordPress](https://wordpress.org/) - Criação de blogs
 - [XML Sitemaps](https://www.xml-sitemaps.com/) - Criador de sitemaps.xml
-- [Minimamente](https://www.minimamente.com/project/magic/)
-- [Hamburgers](https://jonsuh.com/hamburgers/)
-- [Hover Effects](https://ianlunn.github.io/Hover/)
+- [Minimamente](https://www.minimamente.com/project/magic/) - Efeitos para utilizar no CSS
+- [Hamburgers](https://jonsuh.com/hamburgers/) - Menu de hamburgers para utilizar em CSS
+- [Hover Effects](https://ianlunn.github.io/Hover/) - Hover effects para utilizar no CSS
 
 > ◾ Design front-end
 
