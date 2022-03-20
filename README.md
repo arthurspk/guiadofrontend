@@ -49,3 +49,12 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 
 - [MDN - JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/CSS) - O MDN Web Docs é o website oficial de Mozilla para desenvolvimento de padrões web
 - [Cursos de JavaScript](https://github.com/arthurspk/guiadevbrasil#-cursos-de-javascript) - Cursos de JavaScript do repositório geral do Guia Dev Brasil
+
+## ◾ Frameworks
+
+> Framework é um conjunto de códigos prontos que podem ser usados no desenvolvimento de aplicativos e sites. O objetivo dessa ferramenta é aplicar funcionalidades, comandos e estruturas já prontas para garantir qualidade no desenvolvimento de um projeto, cada linguagem possi diversos frameworks que podem ser utilizado para te ajudar em umafuncionalidade específica, por configuração, durante a programação de uma aplicação.
+
+[Frameworks para HTML](https://www.webfx.com/blog/web-design/html5-frameworks/) - 10 frameworks responsivos para ser utilizado no HTML5
+[Frameworks para CSS](https://rockcontent.com/br/talent-blog/frameworks-css/) - 14 frameworks que podem ser utilizados no seu CSS
+[Frameworks no front-end](https://mundodevops.com/blog/framework-front-end/) - Frameworks mais utilizados no front-end
+[Frameworks e bibliotecas JavaScript](https://blog.geekhunter.com.br/frameworks-javascript-e-bibliotecas-java/#:~:text=Um%20framework%20JavaScript%20%C3%A9%20uma,ficar%20reescrevendo%20linhas%20de%20c%C3%B3digo.) - Frameworks e bibliotecas para ser utilizadas no JavaScript
