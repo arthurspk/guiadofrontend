@@ -29,6 +29,12 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 
 ![Frontend Roadmap](./images/frontend.jpg)
 
+## ◾ HTTP
+
+> O Hypertext Transfer Protocol, sigla HTTP é um protocolo de comunicação utilizado para sistemas de informação de hipermídia, distribuídos e colaborativos. Ele é a base para a comunicação de dados da World Wide Web.
+
+- [MDN - HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP) - O MDN Web Docs é o website oficial de Mozilla para desenvolvimento de padrões web
+
 ## ◾ HTML
 
 > HTML (Linguagem de Marcação de HiperTexto) é o bloco de construção mais básico da web. Define o significado e a estrutura do conteúdo da web. Outras tecnologias além do HTML geralmente são usadas para descrever a aparência/apresentação (CSS) ou a funcionalidade/comportamento (JavaScript) de uma página da web, sendo assim HTML é uma linguagem essência para você que quer se tornar desenvolvedor front-end.
@@ -58,3 +64,12 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Frameworks para CSS](https://rockcontent.com/br/talent-blog/frameworks-css/) - 14 frameworks que podem ser utilizados no seu CSS
 - [Frameworks no front-end](https://mundodevops.com/blog/framework-front-end/) - Frameworks mais utilizados no front-end
 - [Frameworks e bibliotecas JavaScript](https://blog.geekhunter.com.br/frameworks-javascript-e-bibliotecas-java/#:~:text=Um%20framework%20JavaScript%20%C3%A9%20uma,ficar%20reescrevendo%20linhas%20de%20c%C3%B3digo.) - Frameworks e bibliotecas para ser utilizadas no JavaScript
+
+## ◾ APIs
+
+> O conceito de API nada mais é do que uma forma de comunicação entre sistemas. Elas permitem a integração entre dois sistemas, em que um deles fornece informações e serviços que podem ser utilizados pelo outro, sem a necessidade de o sistema que consome a API conhecer detalhes de implementação do software, as APIs permitem que o usuário final utilize um aplicativo, software ou até uma simples planilha, consultando, alterando e armazenando dados de diversos sistemas, sem que o usuário precise acessá-los diretamente.
+
+- [MDN - APIs](https://developer.mozilla.org/pt-BR/docs/Web/API) - O MDN Web Docs é o website oficial de Mozilla para desenvolvimento de padrões web
+- [APIs Públicas](https://github.com/public-apis/public-apis) - Uma lista coletiva de APIs gratuitas para uso em software e desenvolvimento web
+
+## 🛠️ Ferramentas
