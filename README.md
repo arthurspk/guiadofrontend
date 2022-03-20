@@ -9,7 +9,7 @@
 
 Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvolvedor front-end, caso você já atue como front-end confere o repositórios para descobrir novas ferramentas para o seu dia-a-dia, os caminhos que você pode tomar e as tecnologias para incorporar na sua stack para se tornar um profissional atualizado e diferenciado em frontend, backend e/ou devops.
 
-<sub> <strong>Segue nas redes sociais para acompanhar mais conteúdo: </strong> <br>
+<sub> <strong>Segue nas redes sociais para acompanhar mais conteúdo: </strong>
 [<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/arthurspk)
 [<img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/seixasqlc/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arthurspk/)
@@ -74,9 +74,21 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 
 ## 🛠️ Ferramentas
 
-- [Text Pop 3D](https://textpop3d.web.app/) - Cria efeitos de texto 3D <br>
-- [Shape Dividers](https://shapedividers.com) - Gera divisores de formas verticais, responsivos, e animados facilmente com este gerador de divisores de formas SVG <br>
-- [Couleur](https://couleur.io) - Uma ferramenta de cores simples para ajudá-lo a encontrar uma boa paleta de cores para seu projeto da web) <br>
-- [Baseline CSS Filters](https://baseline.is/tools/css-photo-filters/) - 36 Belos filtros de fotos, com edição simples e CSS para copiar) <br>
-- [UI Deck](https://uideck.com) - Modelo de página de destino HTML gratuitos e premium, temas de bootstrap, modelos de React, modelos de Tailwind, modelos de site HTML, e kits de interface de usúario) <br>
-- [Naevner](https://naevner.com) - Descrição de cores em linguagem natural, gerador de códigos em cores hexadecimais) <br>
+- [Text Pop 3D](https://textpop3d.web.app/) - Cria efeitos de texto 3D
+- [Shape Dividers](https://shapedividers.com) - Gera divisores de formas verticais, responsivos, e animados facilmente com este gerador de divisores de formas SVG
+- [Couleur](https://couleur.io) - Uma ferramenta de cores simples para ajudá-lo a encontrar uma boa paleta de cores para seu projeto da web)
+- [Baseline CSS Filters](https://baseline.is/tools/css-photo-filters/) - 36 Belos filtros de fotos, com edição simples e CSS para copiar)
+- [UI Deck](https://uideck.com) - Modelo de página de destino HTML gratuitos e premium, temas de bootstrap, modelos de React, modelos de Tailwind, modelos de site HTML, e kits de interface de usúario)
+- [Naevner](https://naevner.com) - Descrição de cores em linguagem natural, gerador de códigos em cores hexadecimais)
+- [Bootstrap Made](https://bootstrapmade.com/) - Temas HTML5 + CSS3 gratuitos
+- [W3 Layouts](https://w3layouts.com) - Temas HTML5 + CSS3 gratuitos
+- [One Page Love](https://onepagelove.com) - Temas HTML5 + CSS3 gratuitos
+- [ThemeWagon Freebies](https://themewagon.com/theme_tag/free/) - Temas HTML5 + CSS3 gratuitos
+- [CSS Grid Garden](http://cssgridgarden.com/) - Ferramenta online para estudos de Grid (CSS)
+- [Flukeout](http://flukeout.github.io/) - Aplicação online para aprender CSS de forma prática
+- [Flex Box Froggy](https://flexboxfroggy.com/) - Desafio de Programação Front-end focados na propriedade flex box. IDE integrada.
+- [Flexbox Defense](http://www.flexboxdefense.com/) - Aprenda flexbox com um game
+- [100 Dias de CSS](https://100dayscss.com) - 100 Desafios de CSS
+- [CSS Battle](https://cssbattle.dev/) - Batalhas temporárias de CSS. IDE integrada
+- [CSS Tricks](https://css-tricks.com/guides/) - Site para treinar
+- [CSS Hell](https://csshell.dev/) - Coleção de erros comuns de CSS e como corrigi-los
