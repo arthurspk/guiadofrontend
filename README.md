@@ -24,3 +24,13 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 ## :beginner: Para quem está começando agora
 
 > Não se assuste com a quantidade de conteúdo apresentados neste guia. Mesmo o foco sendo para profissionais já consolidados que desejam se manter atualizados, acredito que quem está começando pode usá-lo não como um objetivo, mas como um apoio para os estudos. <b>Neste momento, dê enfoque no que te dá produtividade e o restante marque como <i>Ver depois</i></b>. Ao passo que seu conhecimento se torna mais amplo, a tendência é este guia fazer mais sentido e fácil de ser assimilado. Bons estudos e entre em contato sempre que quiser! :punch:
+
+## :small_blue_diamond: Frontend Roadmap
+
+![Frontend Roadmap](./images/frontend.jpg)
+
+## ◾ HTML
+
+> HTML (Linguagem de Marcação de HiperTexto) é o bloco de construção mais básico da web. Define o significado e a estrutura do conteúdo da web. Outras tecnologias além do HTML geralmente são usadas para descrever a aparência/apresentação (CSS) ou a funcionalidade/comportamento (JavaScript) de uma página da web.
+
+- ![MDN - HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) - O MDN Web Docs é o website oficial de Mozilla para desenvolvimento de padrões web
