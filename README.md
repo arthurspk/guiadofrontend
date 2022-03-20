@@ -277,3 +277,30 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [ApexCharts](https://apexcharts.com/)
 - [Particles.js](https://vincentgarreau.com/particles.js/)
 - [ScrollMagic](https://scrollmagic.io/)
+
+> ◾ Ferramentas para hospedar seu site
+
+- [Github Pages](https://pages.github.com/) - Hospedado diretamente de seu repositório GitHub. Basta editar, enviar e suas alterações entrarão em vigor <br>
+- [Award Space](https://www.awardspace.com/) - Hospedagem gratuita na web + um subdomínio gratuito, PHP, MySQL, instalador de aplicativo, envio de e-mail e sem anúncios <br>
+- [Byet](https://byet.host/) - Hospedagem Gratuita e Serviços de Hospedagem Premium. <br>
+- [Infinity Free](https://infinityfree.net/) - Free Unlimited Web Hosting <br>
+- [1FreeHosting](http://www.1freehosting.com/) - Hospedagem de sites grátis com 100GB de largura de banda <br>
+- [Amazon Web Services](https://aws.amazon.com/pt/) - Serviço de aluguel de servidores e outros serviços <br>
+- [BlueHost](https://www.bluehost.com/) - Empresa americana de hospedagem de sites <br>
+- [DigitalOcean](https://www.digitalocean.com/) - Aluguel de servidores dedicados e compartilhados <br>
+- [DreamHost](https://www.dreamhost.com/) - Hospedagem de sites de alta disponibilidade <br>
+- [Embratel](https://www.embratel.com.br/cloud/hospedagem-de-sites) - Hospedagem de sites nacional <br>
+- [GoDaddy](https://br.godaddy.com/hosting/web-hosting) - Hospedagem de sites internacional <br>
+- [GoDaddy](https://br.godaddy.com/) - Empresa de aluguel de servidores compartilhados, dedicados e registro de domínio <br>
+- [Google Cloud](https://cloud.google.com/solutions/smb/web-hosting/) - Serviço de aluguel de servidores da Google <br>
+- [Heroku](https://www.heroku.com/) - Hospedagem de sites grátis com suporte à NodeJS, Java, Ruby, PHP, Python, Go, Scala e Clojure <br>
+- [HostGator](https://www.hostgator.com/) - Hospedagem compartilhada e dedicada para sites e serviços <br>
+- [Hostinger](https://www.hostinger.com.br/) - Hospedagem de sites <br>
+- [Hostoo](https://hostoo.io/) - Hospedagem de sites em cloud computing dedicado <br>
+- [iPage](https://www.ipage.com/) - Hospedagem de sites gringa com descontos para anúncios <br>
+- [KingHost](https://king.host/) - Hospedagem compartilhada e dedicada para sites e serviços de marketing por e-mail <br>
+- [Netlify](https://www.netlify.com/) - Hospedagem para sites estáticos que combina implantação global, integração contínua e HTTPS automático <br>
+- [One.com](https://www.one.com/pt-BR/) - Serviços gerais digitais (incluindo hospedagem de sites) <br>
+- [Surge](https://surge.sh/) - Hospedagem gratuita para páginas estáticas <br>
+- [Umbler](https://www.umbler.com/br) - Hospedagem compartilhada, cloud computing sob taxação de uso <br>
+- [Vercel](https://vercel.com/) - Hospedagem grátis de sites estáticos e serveless <br>
