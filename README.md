@@ -25,6 +25,13 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 
 > Não se assuste com a quantidade de conteúdo apresentados neste guia. Mesmo o foco sendo para profissionais já consolidados que desejam se manter atualizados, acredito que quem está começando pode usá-lo não como um objetivo, mas como um apoio para os estudos. <b>Neste momento, dê enfoque no que te dá produtividade e o restante marque como <i>Ver depois</i></b>. Ao passo que seu conhecimento se torna mais amplo, a tendência é este guia fazer mais sentido e fácil de ser assimilado. Bons estudos e entre em contato sempre que quiser! :punch:
 
+## 🚨 Colabore
+
+- Abra Pull Requests com atualizações
+- Discuta ideias em Issues
+- Compartilhe o repositório com a sua comunidade
+- Mande feedbacks no [LinkedIn](https://www.linkedin.com/in/arthurspk/)
+
 ## :small_blue_diamond: Frontend Roadmap
 
 ![Frontend Roadmap](./images/frontend.jpg)
