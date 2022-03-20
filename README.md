@@ -267,3 +267,13 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Front End Challanged Club](https://piccalil.li/category/front-end-challenges-club) - Bogs com desafios de programação front-end
 - [Frontend Challengens](https://github.com/felipefialho/frontend-challenges) - Repositório no GitHub com vários desafios solicitados reais solicitados por empresas
 - [Frontend Mentor](https://www.frontendmentor.io/) - Desafios de Programação Front-end, análise dos resultados feita pela comunidade, sem IDE integrada
+
+> ◾ Bibliotecas para JavaScript
+
+- [Lax.js](https://github.com/alexfoxy/lax.js)
+- [Swiper](https://swiperjs.com/)
+- [WOW](https://wowjs.uk/)
+- [Animate](https://animate.style/)
+- [ApexCharts](https://apexcharts.com/)
+- [Particles.js](https://vincentgarreau.com/particles.js/)
+- [ScrollMagic](https://scrollmagic.io/)
