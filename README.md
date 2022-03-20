@@ -100,3 +100,14 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [CSS Battle](https://cssbattle.dev/) - Batalhas temporárias de CSS. IDE integrada
 - [CSS Tricks](https://css-tricks.com/guides/) - Site para treinar
 - [CSS Hell](https://csshell.dev/) - Coleção de erros comuns de CSS e como corrigi-los
+
+> ◾ Geradores de CSS
+
+- [Neumorphism](https://neumorphism.io/) - Tendência aplicação border-radius
+- [Fancy Border-Radius](https://9elements.github.io/fancy-border-radius/) - Gerador de formas com border-radius no CSS
+- [WAIT! Animate](https://waitanimate.wstone.io) - Gerador de animações de CSS
+- [Best CSS Button Generator](https://www.bestcssbuttongenerator.com) - Gerador de butões do CSS
+- [HTML CSS JS Generator](https://html-css-js.com/css/generator/) - Gerador de HTML/CSS/JS
+- [BennettFeely](https://bennettfeely.com/clippy/) - Criador de clip-path
+
+> ◾ Ferramentas de desenvolvimento
