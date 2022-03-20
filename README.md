@@ -72,6 +72,13 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [MDN - APIs](https://developer.mozilla.org/pt-BR/docs/Web/API) - O MDN Web Docs é o website oficial de Mozilla para desenvolvimento de padrões web
 - [APIs Públicas](https://github.com/public-apis/public-apis) - Uma lista coletiva de APIs gratuitas para uso em software e desenvolvimento web
 
+## 📚 Recomendação de livros
+
+- [Clean Code - Código Limpo](https://g.co/kgs/62wx9t)
+- [Refactoring - Refatoração](https://g.co/kgs/Hf2eY3)
+- [Clean Archtecture - Arquitertura Limpa](https://g.co/kgs/Hf2eY3)
+- [O programador pragmático](https://g.co/kgs/5nbqB3)
+
 ## 🛠️ Ferramentas
 
 > ◾ Sites para desenvolvedor front-end
@@ -304,3 +311,131 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Surge](https://surge.sh/) - Hospedagem gratuita para páginas estáticas <br>
 - [Umbler](https://www.umbler.com/br) - Hospedagem compartilhada, cloud computing sob taxação de uso <br>
 - [Vercel](https://vercel.com/) - Hospedagem grátis de sites estáticos e serveless <br>
+
+> ◾ Sites para inspirar o seu desenvolvimento
+
+- [Product Hunt](https://www.producthunt.com/)
+- [Namify](https://namify.tech/?ref=producthunt)
+- [Dribbble](https://dribbble.com/)
+- [Pinterest](https://br.pinterest.com/)
+- [Deviant Art](https://www.deviantart.com/)
+- [Lapa](https://www.lapa.ninja/)
+- [Hyper Pixel](https://hyperpixel.io/)
+- [One Page Love](https://onepagelove.com/)
+- [One Page Love Avatars](https://onepagelove.com/boring-avatars)
+- [Land Book](https://land-book.com/)
+- [Awwwards](https://www.awwwards.com)
+- [Best Folios](https://www.bestfolios.com/home)
+- [Sitesee](https://sitesee.co/)
+- [Httpster](https://httpster.net/2021/jun/)
+- [Builders Club](https://builders-club.com/)
+- [CSS Nectar](https://cssnectar.com/)
+- [Collect UI](https://collectui.com)
+- [Best Web Site](https://bestwebsite.gallery)
+
+> ◾ Banco de imagens gratuitas
+
+- [500px](https://500px.com/creativecommons) - Banco de imagens gratuitas
+- [Burst](https://pt.shopify.com/burst) - Plataforma de imagens do serviço de ecommerce Shopify
+- [Cupcake](http://cupcake.nilssonlee.se/) - Imagens gratuitas para uso comercial
+- [Banco De Imagens Com Diversidade](https://github.com/JulianaHelena5/BancoDeImagensComDiversidade) - Banco de imagens com pessoas diversas
+- [DrawKIT](https://www.drawkit.io/) - Ilustrações para qualquer um usar
+- [FlatIcon](https://www.flaticon.com) - Banco de ícones vetoriais
+- [Flickr](https://flickr.com/) - Rede social de fotógrafos
+- [FreeImages](https://pt.freeimages.com/) - Banco de imagens gratuitas
+- [FreePik Stories](https://stories.freepik.com/) - Banco de ilustrações gratuitas
+- [Freerange](https://freerangestock.com/index.php) - Banco de imagens gratuitas
+- [Glaze](https://www.glazestock.com) - Banco de ilustrações, sem direitos autorais
+- [Gratisography](https://gratisography.com/) - Banco de imagens gratuitas
+- [Humaaans](https://www.humaaans.com/) - Ilustrações de humanóides
+- [Icons8](https://icons8.com.br/) - Ícones em diversos estilos
+- [Imgur](https://imgur.com/) - Plataforma com milhões de imagens
+- [IraDesign](https://iradesign.io/illustrations) - Ilustrações editáveis de cores e objetos
+- [Life of Pix](https://www.lifeofpix.com/) - Banco de imagens gratuitas
+- [Little Visuals](https://littlevisuals.co/) - Banco de imagens gratuitas
+- [Lorempixel](http://lorempixel.com/) - Banco de imagens para uso como template
+- [Lukas Zadam](https://lukaszadam.com/illustrations) - Ilustrações SVG em diferentes tamanhos e estilos
+- [ManyPixels](https://www.manypixels.co/gallery/) - Galeria de ilustrações com direito a edição de cores
+- [Morguefile](https://morguefile.com/) - Banco de imagens gratuitas
+- [Nappy](https://www.nappy.co) - Banco de imagens gratuitas (atribuição recomendada)
+- [Nos.twnsnd](https://nos.twnsnd.co/) - Arquivo público de fotos antigas
+- [OpenMoji](https://openmoji.org/) - Banco de emojis para uso
+- [Pexels](https://www.pexels.com/) - Banco de imagens gratuitas
+- [PhotoPin](http://photopin.com/) - Banco de imagens gratuitas no estilo criativo
+- [Picjumbo](https://picjumbo.com/) - Banco de imagens gratuitas
+- [Picsum](https://picsum.photos/) - Banco de imagens para uso como template
+- [Pixabay](http://www.pixabay.com) - Banco de imagens gratuitas (não requer atribuição)
+- [Public domain archive](https://www.publicdomainarchive.com/) - Banco de imagens gratuitas
+- [RemixIcon](https://remixicon.com/) - Banco de Ícones para uso gratuito
+- [StockSnap](https://stocksnap.io/) - Banco de imagens gratuitas (não requer atribuição)
+- [unDraw](https://undraw.co/) - Ilustrações livres para usar
+- [Unsplash](https://unsplash.com/) - Banco de imagens gratuitas
+- [Visual Hunt](https://visualhunt.com/) - Banco de imagens gratuitas
+- [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page) - Banco de imagens mundial
+
+> ◾ Sites para baixar e encontrar fontes
+
+- [Adobe Fonts](https://fonts.adobe.com/)
+- [Google fonts](https://fonts.google.com/)
+- [Dafont](https://www.dafont.com/pt/)
+- [NetFontes](https://www.netfontes.com.br/)
+- [Urbanfonts](https://www.urbanfonts.com/pt/)
+- [Befonts](https://befonts.com/)
+- [Fonts space](https://www.fontspace.com/)
+- [1001 fonts](https://www.1001fonts.com/)
+- [Abstract fonts](https://www.abstractfonts.com/)
+- [Fontget](https://www.fontget.com/)
+- [Material Design Icons](https://materialdesignicons.com/)
+
+> ◾ Sites de paletas de cores
+
+- [Paletton](https://paletton.com/)
+- [Adobe Color](https://color.adobe.com/pt/create/color-wheel/)
+- [Color Hunt](https://colorhunt.co/)
+- [Happy Hues](https://www.happyhues.co/)
+- [Coolors](https://coolors.co/)
+- [Gradient Hunt](https://gradienthunt.com/)
+- [Flat UI Colors](https://flatuicolors.com/)
+- [Grabient](https://www.grabient.com/)
+- [Pigment](https://pigment.shapefactory.co/)
+- [WebGradient](https://webgradients.com/)
+- [Color.lol](https://colors.lol/)
+
+◾ Lista de ilustrações
+
+- [DrawKIT](https://www.drawkit.io/)
+- [Humaaans](https://www.humaaans.com/)
+- [Open Doodle](https://www.opendoodles.com/)
+- [Storyset](https://storyset.com/)
+- [unDraw](https://undraw.co/)
+- [404 Illustrations (by kapwing)](https://www.kapwing.com/404-illustrations/)
+- [404 Illustrations](https://error404.fun/)
+- [Ouch](https://icons8.com.br/illustrations/)
+- [Delesing](https://delesign.com/free-designs/graphics/)
+- [Pixeltru](https://www.pixeltrue.com/free-illustrations/)
+- [Iconscout](https://iconscout.com/)
+
+> ◾ Site de icones
+
+- [DrawKIT](https://www.drawkit/free-icons/)
+- [Eva Icons](https://akveo.github.io/eva-icons/#/)
+- [Feather Icons](https://feathericons.com/)
+- [Font Awesome](https://fontawesome.com)
+- [Heroicons](https://heroicons.dev/)
+- [Iconsvg](https://iconsvg.xyz/)
+- [Icons8 Line Awesome](https://icons8.com/line-awesome/)
+- [Icons8](https://icons8.com.br/)
+- [Shape](https://shape.so/)
+- [Flaticon](https://www.flaticon.com/br/)
+- [Bootstrap icons](https://icons.getbootstrap.com/)
+- [devicon](https://devicon.dev/)
+
+> ◾ Extensões para o seu navegador
+
+- [File Icons for GitHub and GitLab](https://chrome.google.com/webstore/detail/file-icons-for-github-and/ficfmibkjjnpogdcfhfokmihanoldbfe)
+- [GoFullPage](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl)
+- [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=pt-BR)
+- [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+- [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=pt-BR)
+- [Vue Devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=pt-BR)
+- [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=pt-BR)
