@@ -31,6 +31,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - Discuta ideias em Issues
 - Compartilhe o repositório com a sua comunidade
 - Mande feedbacks no [LinkedIn](https://www.linkedin.com/in/arthurspk/)
+- Faça uma doação pelo PIX: arthurcoutinho2@hotmail.com
 
 ## :small_blue_diamond: Frontend Roadmap
 
