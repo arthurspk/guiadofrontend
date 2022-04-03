@@ -17,6 +17,13 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/arthurspk/)
 </sub>
 
+## 📛 Direitos autoriais
+
+> Esse projeto tomou como rerefência para ser feito os roadmaps feito pelo projeto [roadmap.sh](https://roadmap.sh/roadmaps) você pode conferir todo o projeto original feito pelos autores principais pelos links abaixo, desde já agracendo a todos eles por fornecer esse conteúdo que serviu de extrema importância e de base para a criação deste repositório.
+
+- [Roadmap.sh](https://roadmap.sh/roadmaps) - Site do roadmap.sh aonde você encontrará diversos roadmaps em inglês.
+- [Repositório Oficial do Projeto](https://github.com/kamranahmedse/developer-roadmap/blob/master/license) - Repositório oficial do projeto em inglês.
+
 ## :warning: Nossa proposta
 
 > A proposta deste guia é dar uma ideia sobre o atual panorama e guiá-lo se você estiver confuso sobre qual o próximo aprendizado, não influenciar você a seguir os 'hypes' e 'trendys' do momento. Acreditamos que com um <b>maior conhecimento das diferentes estruturas e soluções disponíveis poderá escolher a ferramenta que melhor se aplica às suas demandas.</b> E lembre-se, 'hypes' e 'trendys' nem sempre são as melhores opções.
