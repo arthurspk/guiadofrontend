@@ -17,7 +17,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/arthurspk/)
 </sub>
 
-## 📛 Direitos autoriais
+## 📛 Direitos autorais
 
 > Esse projeto tomou como rerefência para ser feito os roadmaps feito pelo projeto [roadmap.sh](https://roadmap.sh/roadmaps) você pode conferir todo o projeto original feito pelos autores principais pelos links abaixo, desde já agracendo a todos eles por fornecer esse conteúdo que serviu de extrema importância e de base para a criação deste repositório.
 
