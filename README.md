@@ -39,7 +39,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - Compartilhe o repositório com a sua comunidade
 - Mande feedbacks no [LinkedIn](https://www.linkedin.com/in/arthurspk/)
 
-## :small_blue_diamond: Frontend Roadmap
+## 🗺️ Frontend Roadmap
 
 ![Frontend Roadmap](./images/frontend.jpg)
 
