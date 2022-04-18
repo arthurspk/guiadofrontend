@@ -5,6 +5,29 @@
   <h1 align="center">Guia do Desenvolvedor Front-end</h1>
 </p>
 
+## :link: Sumário
+
+|                                         **Sumário**                                        |
+|------------------------------------------------------------------------------------------- |
+| [:dart: O guia para alavancar a sua carreira](#dart-o-guia-para-alavancar-a-sua-carreira)  |
+|                [📛 Direitos autorais](#📛-direitos-autorais)                              |
+|                     [:warning: Nossa proposta](#warning-nossa-proposta)                    |
+|    [:beginner: Para quem está começando agora](#beginner-para-quem-está-começando-agora)   |
+|                              [🚨 Colabore](#🚨-colabore)                                  |
+|                       [🗺️ Frontend Roadmap](#🗺️-frontend-roadmap)                         |
+|                                         [HTTP](#◾-http)                                   |
+|                                         [HTML](#◾-html)                                   |
+|                                          [CSS](#◾-css)                                    |
+|                                    [JavaScript](#◾-javascript)                            |
+|                                    [FrameWorks](#◾-frameworks)                            |
+|                                         [APIs](#◾-apis)                                   |
+|                 [Recomendação de Livros](#📚-recomendação-de-livros)                       |
+| [:woman_student: Recomendações de cursos em PT/BR](#woman_student-recomendações-de-cursos-em-ptbr) |
+| [:video_camera: Recomendações de canais em PT/BR](#video_camera-recomendações-de-canais-em-ptbr) |
+|                                    [Ferramentas](#️-ferramentas)                            |
+
+
+
 ## :dart: O guia para alavancar a sua carreira
 
 Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvolvedor front-end, caso você já atue como front-end confere o repositórios para descobrir novas ferramentas para o seu dia-a-dia, os caminhos que você pode tomar e as tecnologias para incorporar na sua stack para se tornar um profissional atualizado e diferenciado em frontend, faça bom uso do guia e bons estudos!
@@ -17,6 +40,10 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/arthurspk/)
 </sub>
 
+<div align="right">
+    <b><a href="#link-sumario">↥ Voltar ao Topo</a></b>
+</div>
+
 ## 📛 Direitos autorais
 
 > Esse projeto tomou como rerefência para ser feito os roadmaps feito pelo projeto [roadmap.sh](https://roadmap.sh/roadmaps) você pode conferir todo o projeto original feito pelos autores principais pelos links abaixo, desde já agradecendo a todos eles por fornecer esse conteúdo que serviu de extrema importância e de base para a criação deste repositório.
@@ -24,30 +51,54 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Roadmap.sh](https://roadmap.sh/roadmaps) - Site do roadmap.sh aonde você encontrará diversos roadmaps em inglês.
 - [Repositório Oficial do Projeto](https://github.com/kamranahmedse/developer-roadmap/blob/master/license) - Repositório oficial do projeto em inglês.
 
+<div align="right">
+    <b><a href="#link-sumario">↥ Voltar ao Topo</a></b>
+</div>
+
 ## :warning: Nossa proposta
 
 > A proposta deste guia é dar uma ideia sobre o atual panorama e guiá-lo se você estiver confuso sobre qual o próximo aprendizado, não influenciar você a seguir os 'hypes' e 'trendys' do momento. Acreditamos que com um <b>maior conhecimento das diferentes estruturas e soluções disponíveis poderá escolher a ferramenta que melhor se aplica às suas demandas.</b> E lembre-se, 'hypes' e 'trendys' nem sempre são as melhores opções.
+
+<div align="right">
+    <b><a href="#link-sumario">↥ Voltar ao Topo</a></b>
+</div>
 
 ## :beginner: Para quem está começando agora
 
 > Não se assuste com a quantidade de conteúdo apresentados neste guia. Mesmo o foco sendo para profissionais já consolidados que desejam se manter atualizados, acredito que quem está começando pode usá-lo não como um objetivo, mas como um apoio para os estudos. <b>Neste momento, dê enfoque no que te dá produtividade e o restante marque como <i>Ver depois</i></b>. Ao passo que seu conhecimento se torna mais amplo, a tendência é este guia fazer mais sentido e fácil de ser assimilado. Bons estudos e entre em contato sempre que quiser! :punch:
 
+<div align="right">
+    <b><a href="#link-sumario">↥ Voltar ao Topo</a></b>
+</div>
+
 ## 🚨 Colabore
 
-- Abra Pull Requests com atualizações
+- [Abra Pull Requests com atualizações](https://www.digitalocean.com/community/tutorials/como-criar-um-pull-request-no-github-pt)
 - Discuta ideias em Issues
 - Compartilhe o repositório com a sua comunidade
 - Mande feedbacks no [LinkedIn](https://www.linkedin.com/in/arthurspk/)
 
+<div align="right">
+    <b><a href="#link-sumario">↥ Voltar ao Topo</a></b>
+</div>
+
 ## 🗺️ Frontend Roadmap
 
 ![Frontend Roadmap](./images/frontend.jpg)
+
+<div align="right">
+    <b><a href="#link-sumario">↥ Voltar ao Topo</a></b>
+</div>
 
 ## ◾ HTTP
 
 > O Hypertext Transfer Protocol, sigla HTTP é um protocolo de comunicação utilizado para sistemas de informação de hipermídia, distribuídos e colaborativos. Ele é a base para a comunicação de dados da World Wide Web.
 
 - [MDN - HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP) - O MDN Web Docs é o website oficial de Mozilla para desenvolvimento de padrões web
+
+<div align="right">
+    <b><a href="#link-sumario">↥ Voltar ao Topo</a></b>
+</div>
 
 ## ◾ HTML
 
@@ -56,6 +107,10 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [MDN - HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) - O MDN Web Docs é o website oficial de Mozilla para desenvolvimento de padrões web
 - [Cursos de HTML](https://github.com/arthurspk/guiadevbrasil#-cursos-de-html-e-css) - Cursos de HTML do repositório geral do Guia Dev Brasil
 
+<div align="right">
+    <b><a href="#link-sumario">↥ Voltar ao Topo</a></b>
+</div>
+
 ## ◾ CSS
 
 > CSS (Cascading Style Sheets) é um mecanismo para adicionar estilo a um documento web. O código CSS pode ser aplicado diretamente nas tags ou ficar contido dentro das tags <style>. Também é possível, em vez de colocar a formatação dentro do documento, criar um link para um arquivo CSS que contém os estilos.
@@ -63,12 +118,20 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [MDN - CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) - O MDN Web Docs é o website oficial de Mozilla para desenvolvimento de padrões web
 - [Cursos de CSS](https://github.com/arthurspk/guiadevbrasil#-cursos-de-html-e-css) - Cursos de CSS do repositório geral do Guia Dev Brasil
 
+<div align="right">
+    <b><a href="#link-sumario">↥ Voltar ao Topo</a></b>
+</div>
+
 ## ◾ JavaScript
 
 > JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web.
 
 - [MDN - JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/CSS) - O MDN Web Docs é o website oficial de Mozilla para desenvolvimento de padrões web
 - [Cursos de JavaScript](https://github.com/arthurspk/guiadevbrasil#-cursos-de-javascript) - Cursos de JavaScript do repositório geral do Guia Dev Brasil
+
+<div align="right">
+    <b><a href="#link-sumario">↥ Voltar ao Topo</a></b>
+</div>
 
 ## ◾ Frameworks
 
@@ -79,12 +142,74 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Frameworks no front-end](https://mundodevops.com/blog/framework-front-end/) - Frameworks mais utilizados no front-end
 - [Frameworks e bibliotecas JavaScript](https://blog.geekhunter.com.br/frameworks-javascript-e-bibliotecas-java/#:~:text=Um%20framework%20JavaScript%20%C3%A9%20uma,ficar%20reescrevendo%20linhas%20de%20c%C3%B3digo.) - Frameworks e bibliotecas para ser utilizadas no JavaScript
 
+<div align="right">
+    <b><a href="#link-sumario">↥ Voltar ao Topo</a></b>
+</div>
+
+### Frameworks CSS
+
+**Bootstrap**
+
+- [Documentação do Bootstrap](https://getbootstrap.com/docs/5.1/getting-started/introduction/);
+- [Curso de Bootstrap do Hora de Codar](https://www.youtube.com/playlist?list=PLnDvRpP8Bnexu5wvxogy6N49_S5Xk8Cze);
+
+**TailwindCSS**
+
+- [Documentação oficial do Tailwind CSS](https://tailwindcss.com/docs/installation);
+- [Curso de Tailwind CSS do Hélio Gomes Brier](https://www.youtube.com/playlist?list=PLOeQ3eg8Hw4MB6OQ1y5KMMCaszU1jgTey)
+
+**Material UI**
+
+- [Documentação oficial do Material UI](https://mui.com/pt/material-ui/getting-started/installation/);
+
+
+<div align="right">
+    <b><a href="#link-sumario">↥ Voltar ao Topo</a></b>
+</div>
+
+### Frameworks JavaScript
+
+**ReactJS**
+
+> O React é, hoje, o Framework JavaScript mais utilizado no mundo. 
+
+- [Documentação Oficial do React](https://pt-br.reactjs.org/docs/getting-started.html);
+
+**VueJS**
+
+> O Vue é um Framework Progressivo focado em Single Page Applications (SPA), mas que vem crescendo muito no mercado.
+
+- [Documentação Oficial do Vue](https://vuejs.org/guide/introduction.html);
+
+- [Treinamento gratuito do VueJS Brasil de Vue 3](https://treinamento.vuejsbrasil.org/);
+- [Curso de Vue 3 gratuito do Hora de Codar](https://www.youtube.com/watch?v=wsAQQioPIJs&list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL);
+- [Curso de Vue 2 gratuito do Terminal Root](https://www.youtube.com/watch?v=Uo7iciQYYTo).
+
+
+**Angular**
+
+- [Documentação Oficial do Angular](https://angular.io/docs).
+
+
+**Svelte**
+
+- [Documentação Oficial do Svelte](https://svelte.dev/docs).
+
+<div align="right">
+    <b><a href="#link-sumario">↥ Voltar ao Topo</a></b>
+</div>
+
 ## ◾ APIs
 
 > O conceito de API nada mais é do que uma forma de comunicação entre sistemas. Elas permitem a integração entre dois sistemas, em que um deles fornece informações e serviços que podem ser utilizados pelo outro, sem a necessidade de o sistema que consome a API conhecer detalhes de implementação do software, as APIs permitem que o usuário final utilize um aplicativo, software ou até uma simples planilha, consultando, alterando e armazenando dados de diversos sistemas, sem que o usuário precise acessá-los diretamente.
 
 - [MDN - APIs](https://developer.mozilla.org/pt-BR/docs/Web/API) - O MDN Web Docs é o website oficial de Mozilla para desenvolvimento de padrões web
 - [APIs Públicas](https://github.com/public-apis/public-apis) - Uma lista coletiva de APIs gratuitas para uso em software e desenvolvimento web
+- [Lista de APIs Gratuitas para Devs](https://rapidapi.com/collection/list-of-free-apis)
+
+<div align="right">
+    <b><a href="#link-sumario">↥ Voltar ao Topo</a></b>
+</div>
 
 ## 📚 Recomendação de livros
 
@@ -92,6 +217,27 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Refactoring - Refatoração](https://g.co/kgs/Hf2eY3)
 - [Clean Archtecture - Arquitertura Limpa](https://g.co/kgs/Hf2eY3)
 - [O programador pragmático](https://g.co/kgs/5nbqB3)
+
+<div align="right">
+    <b><a href="#link-sumario">↥ Voltar ao Topo</a></b>
+</div>
+
+## :woman_student: Recomendações de cursos em PT/BR
+
+- [RocketSeat](https://www.rocketseat.com.br/);
+- [Dio](https://dio.me/);
+- [4noobs](https://github.com/he4rt/4noobs);
+- [Canal Hora de Codar](https://www.youtube.com/c/MatheusBattisti).
+
+<div align="right">
+    <b><a href="#link-sumario">↥ Voltar ao Topo</a></b>
+</div>
+
+## :video_camera: Recomendações de canais em PT/BR
+
+- [Canal Fábio Akita](https://www.youtube.com/c/FabioAkita1990);
+- [Canal Cod3r](https://www.youtube.com/c/COD3RCURSOS);
+- [Canal Jamilton Damasceno](https://www.youtube.com/c/jamiltondamasceno)
 
 ## 🛠️ Ferramentas
 
@@ -327,6 +473,11 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Umbler](https://www.umbler.com/br) - Hospedagem compartilhada, cloud computing sob taxação de uso
 - [Vercel](https://vercel.com/) - Hospedagem grátis de sites estáticos e serveless
 
+> ◾ Listas do Projeto Awesome
+
+- [Awesome](https://github.com/sindresorhus/awesome);
+- [Recursos de Design para Desenvolvedores](https://github.com/bradtraversy/design-resources-for-developers/);
+
 > ◾ Sites para inspirar o seu desenvolvimento
 
 - [Product Hunt](https://www.producthunt.com/)
@@ -454,3 +605,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh?hl=pt-BR)
 - [Vue Devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=pt-BR)
 - [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=pt-BR)
+
+<div align="right">
+    <b><a href="#link-sumario">↥ Voltar ao Topo</a></b>
+</div>
