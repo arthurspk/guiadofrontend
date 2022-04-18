@@ -22,6 +22,8 @@
 |                                    [FrameWorks](#◾-frameworks)                            |
 |                                         [APIs](#◾-apis)                                   |
 |                 [Recomendação de Livros](#📚-recomendação-de-livros)                       |
+| [:woman_student: Recomendações de cursos em PT/BR](#woman_student-recomendações-de-cursos-em-ptbr) |
+| [:video_camera: Recomendações de canais em PT/BR](#video_camera-recomendações-de-canais-em-ptbr) |
 |                                    [Ferramentas](#️-ferramentas)                            |
 
 
@@ -71,7 +73,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 
 ## 🚨 Colabore
 
-- Abra Pull Requests com atualizações
+- [Abra Pull Requests com atualizações](https://www.digitalocean.com/community/tutorials/como-criar-um-pull-request-no-github-pt)
 - Discuta ideias em Issues
 - Compartilhe o repositório com a sua comunidade
 - Mande feedbacks no [LinkedIn](https://www.linkedin.com/in/arthurspk/)
@@ -219,6 +221,23 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 <div align="right">
     <b><a href="#link-sumario">↥ Voltar ao Topo</a></b>
 </div>
+
+## :woman_student: Recomendações de cursos em PT/BR
+
+- [RocketSeat](https://www.rocketseat.com.br/);
+- [Dio](https://dio.me/);
+- [4noobs](https://github.com/he4rt/4noobs);
+- [Canal Hora de Codar](https://www.youtube.com/c/MatheusBattisti).
+
+<div align="right">
+    <b><a href="#link-sumario">↥ Voltar ao Topo</a></b>
+</div>
+
+## :video_camera: Recomendações de canais em PT/BR
+
+- [Canal Fábio Akita](https://www.youtube.com/c/FabioAkita1990);
+- [Canal Cod3r](https://www.youtube.com/c/COD3RCURSOS);
+- [Canal Jamilton Damasceno](https://www.youtube.com/c/jamiltondamasceno)
 
 ## 🛠️ Ferramentas
 
@@ -453,6 +472,11 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Surge](https://surge.sh/) - Hospedagem gratuita para páginas estáticas
 - [Umbler](https://www.umbler.com/br) - Hospedagem compartilhada, cloud computing sob taxação de uso
 - [Vercel](https://vercel.com/) - Hospedagem grátis de sites estáticos e serveless
+
+> ◾ Listas do Projeto Awesome
+
+- [Awesome](https://github.com/sindresorhus/awesome);
+- [Recursos de Design para Desenvolvedores](https://github.com/bradtraversy/design-resources-for-developers/);
 
 > ◾ Sites para inspirar o seu desenvolvimento
 
