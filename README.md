@@ -34,7 +34,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 
 ## 🚨 Colabore
 
-- Abra Pull Requests com atualizações
+- Abra Pull Requests com atualizações 
 - Discuta ideias em Issues
 - Compartilhe o repositório com a sua comunidade
 - Mande feedbacks no [LinkedIn](https://www.linkedin.com/in/arthurspk/)
