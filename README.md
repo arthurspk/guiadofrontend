@@ -27,7 +27,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 
 ## 📛 Direitos autorais
 
-> Esse projeto tomou como refêrencia para ser feito os roadmaps feito pelo projeto [roadmap.sh](https://roadmap.sh/roadmaps) você pode conferir todo o projeto original feito pelos autores principais pelos links abaixo, desde já agradecendo a todos eles por fornecer esse conteúdo que serviu de extrema importância e de base para a criação deste repositório.
+> Esse projeto tomou como referência para ser feito os roadmaps feito pelo projeto [roadmap.sh](https://roadmap.sh/roadmaps) você pode conferir todo o projeto original feito pelos autores principais pelos links abaixo, desde já agradecendo a todos eles por fornecer esse conteúdo que serviu de extrema importância e de base para a criação deste repositório.
 
 - [Roadmap.sh](https://roadmap.sh/roadmaps) - Site do roadmap.sh onde você encontrará diversos roadmaps em inglês.
 - [Repositório Oficial do Projeto](https://github.com/kamranahmedse/developer-roadmap/blob/master/license) - Repositório oficial do projeto em inglês.
