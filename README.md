@@ -249,6 +249,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Minimamente](https://www.minimamente.com/project/magic/) - Efeitos para utilizar no CSS
 - [Hamburgers](https://jonsuh.com/hamburgers/) - Menu de hamburgers para utilizar em CSS
 - [Hover Effects](https://ianlunn.github.io/Hover/) - Hover effects para utilizar no CSS
+- [Free AI Diagram Generator](https://diagram-generator.com/) - uma plataforma gratuita com tecnologia de IA que ajuda você a criar vários tipos de diagramas com facilidade
 
 > ◾ Design front-end
 
