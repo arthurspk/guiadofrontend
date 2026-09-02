@@ -1,0 +1,35 @@
+name: 🔗 Link quebrado
+description: Reporte um link que não abre, redireciona para outro lugar ou está desatualizado.
+title: "[Link quebrado]: "
+labels: ["link-quebrado"]
+body:
+  - type: input
+    id: link
+    attributes:
+      label: Link com problema
+      placeholder: "https://..."
+    validations:
+      required: true
+  - type: input
+    id: secao
+    attributes:
+      label: Seção do guia onde ele está
+      placeholder: "Ex.: 🎓 Cursos gratuitos"
+    validations:
+      required: true
+  - type: dropdown
+    id: problema
+    attributes:
+      label: O que acontece
+      options:
+        - Erro 404 / página não existe
+        - Redireciona para outra página
+        - Conteúdo removido ou desatualizado
+        - Outro (descreva abaixo)
+    validations:
+      required: true
+  - type: input
+    id: substituto
+    attributes:
+      label: Sugestão de substituto (opcional)
+      placeholder: "https://..."

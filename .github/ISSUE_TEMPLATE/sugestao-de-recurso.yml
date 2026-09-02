@@ -1,0 +1,60 @@
+name: 💡 Sugestão de recurso
+description: Sugira um curso, livro, canal, ferramenta, artigo ou comunidade para o guia.
+title: "[Recurso]: "
+labels: ["sugestão"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Obrigado pela sugestão! Leia os critérios em [CONTRIBUTING.md](../blob/main/CONTRIBUTING.md) antes de enviar. Só aceitamos conteúdo legal, com link funcionando.
+  - type: input
+    id: nome
+    attributes:
+      label: Nome do recurso
+      placeholder: "Ex.: Curso de CSS Grid — Origamid"
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      placeholder: "https://..."
+    validations:
+      required: true
+  - type: dropdown
+    id: categoria
+    attributes:
+      label: Categoria
+      options:
+        - Roadmap
+        - Cursos gratuitos
+        - Cursos pagos
+        - Documentação e apostilas
+        - Livros
+        - Canais no YouTube
+        - Podcasts
+        - Sites, blogs e newsletters
+        - Ferramentas
+        - Projetos práticos e desafios
+        - IA na prática
+        - Certificações
+        - Carreira e vagas
+        - Acessibilidade
+        - Recursos de design
+        - Comunidades
+    validations:
+      required: true
+  - type: textarea
+    id: porque
+    attributes:
+      label: Por que incluir?
+      description: Uma ou duas linhas sobre o que é e por que vale o clique. Diga se é gratuito, pago ou em inglês.
+    validations:
+      required: true
+  - type: checkboxes
+    id: criterios
+    attributes:
+      label: Confirmação
+      options:
+        - label: O link está funcionando e o conteúdo é legal (não é material pirateado).
+          required: true
