@@ -234,6 +234,7 @@ Abaixo você encontrará conteúdos para te guiar e ajudar a se torna um desenvo
 - [Telegram](https://telegram.org/) - Mensageiro criptografado
 - [TinyJPG](https://tinyjpg.com/) - Comprima imagem do formato JPG
 - [TinyPNG](https://tinypng.com/) - Comprima imagem do formato PNG
+- [Practical Web Tools](https://practicalwebtools.com/) - 1.400+ ferramentas gratuitas no navegador: edição/conversão de PDF, conversores de imagem/áudio e 200+ calculadoras. Tudo client-side, sem uploads
 - [Creately](https://creately.com/) - Crie e altere lindos diagramas em tempo real com a sua equipe
 - [Carbon](https://carbon.now.sh/) - Crie Snippets de codigo clean e bonitos
 - [DbDiagram](https://dbdiagram.io/home) - Crie elegrantes diagramas de banco de dados e gere script ddl
